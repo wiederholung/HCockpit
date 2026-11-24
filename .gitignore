@@ -1,8 +1,13 @@
 docs/归档
 docs/选题
 docs/templates
-docs/sbumit
+/docs/submit/
 .env
 hcopilot_workspace/output
 docs/cost
-docs/Hu Yitong_2020213350_FinalReport.pdf
+/docs/FinalReport.pdf
+/docs/*_FinalReport.pdf
+/docs/FinalReport.zip
+/docs/*_FinalReport.zip
+/submit/SupportDocs.zip
+/submit/*_SupportDocs.zip
